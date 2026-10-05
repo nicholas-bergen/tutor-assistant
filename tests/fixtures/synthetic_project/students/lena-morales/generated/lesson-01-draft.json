@@ -1,0 +1,4 @@
+{
+  "source_system":"generated","source_record_type":"lesson_summary_draft","external_id":"generated-draft-lena-01","event_at":"2026-09-14T16:45:00-07:00","recorded_at":"2026-09-14T16:48:00-07:00","captured_at":"2026-10-10T09:00:00-07:00","fixture_schema_version":1,
+  "payload":{"dashboard_lesson_external_id":"dashboard-lesson-lena-01","granola_meeting_external_id":"granola-meeting-lena-01","model_name":"fictional-summary-model-v1","noteworthy_information":"Lena worked on transitions, punctuation, and calculator systems in a short session.","homework":["Complete the quick review."]}
+}

@@ -1,0 +1,349 @@
+Microphone: Hey Theo. How did Foundations Set A go?
+
+System audio: Better than I expected. I missed three. One was a ratio, one was a transition, and one was punctuation. I did catch myself circling the thing it asked for, and that saved me at least twice.
+
+Microphone: Excellent. Tell me one example where the circle changed your answer.
+
+System audio: There was a discount problem. I found the sale price, thirty-six dollars, but it asked how many dollars were saved. Because I had circled “saved,” I went back and did forty-five minus thirty-six, so nine dollars.
+
+Microphone: Perfect. That is the check working. Let’s review the ratio miss first. Read your error note.
+
+System audio: I wrote, “I inverted miles per gallon and gallons per mile because I didn’t write units in the proportion.”
+
+Microphone: Good specific diagnosis. Show me the question.
+
+System audio: A vehicle travels one hundred eighty miles using six gallons. At the same rate, how many gallons are needed for four hundred twenty miles?
+
+Microphone: What rate did you calculate?
+
+System audio: I did one hundred eighty divided by six, thirty miles per gallon. Then I multiplied four hundred twenty by thirty, which obviously got a huge number.
+
+Microphone: Your rate was correct, but the operation ignored units. Write it with units.
+
+System audio: Four hundred twenty miles divided by thirty miles per gallon. Miles cancel and gallons come up, so fourteen gallons.
+
+Microphone: Exactly. If you multiply miles by miles per gallon, what units result?
+
+System audio: Miles squared per gallon, which makes no sense for the answer.
+
+Microphone: Good. Now solve with a proportion as a second route.
+
+System audio: Six gallons over one hundred eighty miles equals g gallons over four hundred twenty miles. Cross multiply: one hundred eighty g equals six times four hundred twenty, so g is fourteen.
+
+Microphone: Great. Which route do you prefer?
+
+System audio: Unit rate, as long as I write the units. The proportion is safer if I’m confused.
+
+Microphone: That’s reasonable. Let’s do two related questions. Same vehicle, thirty miles per gallon. How far on nine gallons?
+
+System audio: Thirty miles per gallon times nine gallons is two hundred seventy miles.
+
+Microphone: How many gallons for seventy-five miles?
+
+System audio: Seventy-five miles divided by thirty miles per gallon is two point five gallons.
+
+Microphone: Good. The unit tells you multiply or divide. Now a scale recipe: flour to oats is five to two. A large batch uses eighteen cups total. How many cups are oats?
+
+System audio: Total parts seven. Each part is eighteen sevenths, so oats are thirty-six sevenths, about five point one four cups. That’s an awkward amount.
+
+Microphone: Is awkward automatically wrong?
+
+System audio: No. The total just wasn’t a multiple of seven. I can check that flour would be ninety sevenths, and together that is one hundred twenty-six sevenths, eighteen.
+
+Microphone: Excellent. Do not force whole numbers. Now suppose the question says the batch uses fifteen cups of flour. How many cups total?
+
+System audio: Five parts equals fifteen, so one part is three. Oats are six, total twenty-one.
+
+Microphone: Good. Your target changed, so the route changed. Let’s look at your transition miss. Read the paragraph.
+
+System audio: “The town initially planned to remove the old rail bridge. Engineers later found that its stone supports remained stable. Blank, the town converted the bridge into a walking path.” I chose “however.”
+
+Microphone: Before looking at the choices, what relationship do you see?
+
+System audio: It sounds like a result. Because the supports were stable, they converted it instead of removing it.
+
+Microphone: Right. The contrast exists between the initial plan and final action, which made “however” tempting. But the blank connects the stability finding to the conversion decision. Which transition is more precise?
+
+System audio: “Therefore” or “as a result.”
+
+Microphone: Exactly. Transitions describe the immediate logical connection at the blank. Let’s label the three-sentence structure. Sentence one?
+
+System audio: Original plan.
+
+Microphone: Sentence two?
+
+System audio: New evidence.
+
+Microphone: Sentence three?
+
+System audio: Decision resulting from the evidence.
+
+Microphone: Good. Now I’ll change sentence two: “Engineers later found that repairing its unstable supports would cost more than replacement.” What transition into “the town removed the bridge”?
+
+System audio: Still result: therefore.
+
+Microphone: Change sentence three: “Blank, a local history group continued to argue for preserving the bridge.”
+
+System audio: Now contrast. Even though the engineering evidence points toward removal, the group wanted preservation. “Nevertheless” or “however.”
+
+Microphone: Good. The relationship is not a property of individual sentences; it depends on how they connect. Let’s build a simple relationship list in your words.
+
+System audio: Same direction or adding information. Opposite direction or surprise. Cause and result. Example. More specific explanation. Time order.
+
+Microphone: That is plenty. You do not need to memorize twenty transition words as separate vocabulary. Group them by job. I’ll say a word; you give the job. “Moreover.”
+
+System audio: Adds information, same direction.
+
+Microphone: “Nevertheless.”
+
+System audio: Contrast, especially despite what came before.
+
+Microphone: “Consequently.”
+
+System audio: Result.
+
+Microphone: “For instance.”
+
+System audio: Example.
+
+Microphone: “In other words.”
+
+System audio: Restatement or clarification.
+
+Microphone: “Subsequently.”
+
+System audio: Later in time.
+
+Microphone: Good. Now we’ll do a fictional passage without answer choices. Supply a relationship label, not a specific word. “The ceramic coating is lighter than the metal layer it replaced. Blank, it withstands higher temperatures.”
+
+System audio: Addition, another advantage.
+
+Microphone: “The ceramic coating withstands higher temperatures. Blank, it cracks more easily under sudden impact.”
+
+System audio: Contrast.
+
+Microphone: “The coating cracked during the impact test. Blank, the engineers added a flexible backing layer.”
+
+System audio: Result or response.
+
+Microphone: “Several backing materials were tested. Blank, a woven fiber sheet reduced cracking most effectively.”
+
+System audio: Example? Or maybe specifically the result of testing.
+
+Microphone: Good hesitation. If the second sentence names one result from the tests, “in particular” might signal emphasis, while “ultimately” might signal the final finding. We would need choices and surrounding context. The key is that you are analyzing rather than guessing.
+
+System audio: So labels can be approximate as long as they separate the answer choices.
+
+Microphone: Exactly. Plain language beats forcing a technical label. Now your punctuation miss. Read it.
+
+System audio: “The first prototype was inexpensive to build blank however, it failed the durability test.” I picked a comma.
+
+Microphone: Clause structure?
+
+System audio: Complete clause before, complete clause after. “However” is a transition, not a conjunction. So semicolon before however and comma after.
+
+Microphone: Good. You wrote in your note that you confused “however” with “but.” Compare them directly.
+
+System audio: “The prototype was inexpensive, but it failed” uses comma plus but. “The prototype was inexpensive; however, it failed” uses semicolon plus however plus comma.
+
+Microphone: Exactly. Can “however” move within the second clause?
+
+System audio: Yes. “The prototype, however, failed the durability test.” That’s another clue that it’s a transition word inserted into a clause.
+
+Microphone: Great. Now combine transition logic and punctuation. The blank may require both. “The trial population was small blank therefore, the finding should be interpreted cautiously.” What complete answer belongs at the blank?
+
+System audio: Semicolon before therefore. The comma after therefore is already shown. So semicolon.
+
+Microphone: Relationship?
+
+System audio: Result: because the population was small, the finding needs caution.
+
+Microphone: Good. “The trial population was small blank but the researchers observed a consistent pattern.”
+
+System audio: Comma before but. Relationship is contrast.
+
+Microphone: “Although the trial population was small blank the researchers observed a consistent pattern.”
+
+System audio: Comma after the dependent opener.
+
+Microphone: Nice. Same two ideas, three grammatical structures. Let’s do a timed set of six transition questions. Before each answer, write only a one-word relationship label. You have six minutes.
+
+System audio: Starting. One: addition, B. Two: result, D. Three: contrast, A. Four: example, C. Five: clarification, B. Six: sequence, D. Done with a minute left.
+
+Microphone: All six correct. I noticed you paused on number five. What happened?
+
+System audio: The first sentence used a technical term, and the next sentence explained it in normal language. I first called it an example, but there wasn’t a specific instance. It was basically restating the meaning.
+
+Microphone: Excellent distinction. “For example” introduces an instance; “that is” or “in other words” clarifies. Now we’ll switch back to ratios and proportions with more steps. A map uses a scale of three centimeters for eighty kilometers. Two cities are seven point five centimeters apart on the map. What is the actual distance?
+
+System audio: Eighty kilometers over three centimeters times seven point five centimeters. Centimeters cancel. Seven point five divided by three is two point five, times eighty is two hundred kilometers.
+
+Microphone: Check reasonableness.
+
+System audio: Seven point five is two and a half times three, so actual distance should be two and a half times eighty. Yes, two hundred.
+
+Microphone: Good. A scale drawing has an area of forty square centimeters. The actual object’s lengths are five times the drawing’s lengths. What is actual area?
+
+System audio: My first instinct is two hundred, but area scales by the square of the length factor. Five squared is twenty-five, so forty times twenty-five is one thousand square centimeters.
+
+Microphone: Excellent catch. How would volume scale?
+
+System audio: By five cubed, one hundred twenty-five.
+
+Microphone: Good. Let’s make the units realistic. A model storage box is eight centimeters long, five centimeters wide, and three centimeters high. The real box uses a length scale of four to one. What is the real volume?
+
+System audio: Model volume is eight times five times three, one hundred twenty cubic centimeters. Real length factor is four, so volume factor sixty-four. One hundred twenty times sixty-four is seven thousand six hundred eighty cubic centimeters. Or I could scale dimensions to thirty-two, twenty, twelve and multiply, same result.
+
+Microphone: Check the arithmetic.
+
+System audio: Thirty-two times twenty is six hundred forty; times twelve is seven thousand six hundred eighty. Yes.
+
+Microphone: Great. Now a proportional relationship in a graph. y is proportional to x, and the line passes through six, fifteen. What is y when x is fourteen?
+
+System audio: Constant is fifteen over six, or two point five. y is two point five times fourteen, thirty-five.
+
+Microphone: What tells you the relationship is proportional rather than merely linear?
+
+System audio: It says proportional, so the line goes through the origin and has form y equals kx. If there were a nonzero intercept, it would be linear but not proportional.
+
+Microphone: Exactly. Suppose a taxi charges four dollars plus two dollars per mile. Is total cost proportional to miles?
+
+System audio: No, because at zero miles the cost is four dollars. It’s linear with intercept four.
+
+Microphone: Good. How does that connect to our first-session service-fee problems?
+
+System audio: Those have a starting amount plus a constant rate. I should not treat total cost divided by units as a constant proportional rate because the fixed fee changes the average.
+
+Microphone: Excellent. Here is a common trap: a three-mile ride costs ten dollars and a five-mile ride costs fourteen. What is the per-mile charge and fixed fee?
+
+System audio: Change in cost is four dollars over two miles, so two dollars per mile. Put in three miles: ten equals two times three plus fee, so fee is four dollars.
+
+Microphone: Good. If asked for average cost per mile on the three-mile ride?
+
+System audio: Ten divided by three, about three dollars thirty-three cents per mile. That is different from the marginal charge of two dollars per mile.
+
+Microphone: Exactly. Target language again. Now, I want to see whether the I-R-C process is becoming automatic. Complete four mixed questions without writing the letters. Circle targets and show units or clause labels as needed.
+
+System audio: One asks gallons, so I divide miles by miles per gallon: eleven gallons. Two has a dependent opener, comma, choice C. Three asks total participants from a two-to-seven ratio where the smaller group is ten. Scale factor five, total parts nine, forty-five participants. Four asks for a contrast transition because the expected result did not occur, choice A.
+
+Microphone: All four correct. What checks did you use even though you did not write C?
+
+System audio: For gallons, units canceled. For grammar, I read the core clauses. For the ratio, ten plus thirty-five equals forty-five and the ratio is two to seven. For the transition, I compared the direction of the two sentences before looking at words.
+
+Microphone: Great. That is the process becoming internal. Let’s add command-of-evidence because it appeared on your second practice test. Read the short fictional passage.
+
+System audio: “Researchers tested whether a shaded roof would reduce cooling needs in a small public building. During similar weather, the building used less electricity after the roof installation, though indoor temperatures remained nearly unchanged.”
+
+Microphone: The question asks which finding would most directly strengthen the claim that the roof reduced cooling needs. What evidence would you predict?
+
+System audio: Something showing the electricity drop came from less air-conditioning use, not another change. Maybe records showing the cooling system ran fewer minutes while other electricity use stayed stable.
+
+Microphone: Excellent. Choice A says visitors reported liking the roof color. B says the cooling system ran twenty percent fewer minutes while lighting and equipment use remained stable. C says outdoor temperature was slightly lower on one test day. D says the roof material cost more than standard material.
+
+System audio: B. It directly connects the roof period to less cooling operation and controls other uses.
+
+Microphone: Why is the original passage alone not perfect proof?
+
+System audio: Total electricity could fall for other reasons. Similar weather helps, but equipment use or occupancy could change. The added evidence isolates cooling more directly.
+
+Microphone: Very good. Another evidence question: a passage claims a new bus route improved access to the clinic. What result would strengthen it?
+
+System audio: More patients from neighborhoods served by the route attended appointments, especially people who previously reported transportation problems. Just saying buses were newer wouldn’t support access.
+
+Microphone: Exactly. Your process works here too: identify the claim, represent what evidence would logically affect it, check the choice against the claim. Now a weakening question. Claim: a study app caused students’ quiz scores to rise because app users averaged higher scores. What evidence most weakens the causal claim?
+
+System audio: If students chose whether to use the app and the users already had higher prior grades or studied more. Then the groups were different before the app.
+
+Microphone: Good. Choice C says app users had scored higher on a pretest before receiving access. That weakens causal interpretation. Notice you predicted the evidence before reading choices, just like with transitions.
+
+System audio: It feels easier when I know the job of the answer. Otherwise every choice is just another fact.
+
+Microphone: Exactly. That is a major theme in test preparation: classify the job, then evaluate. Let’s do a three-question evidence mini-set.
+
+System audio: One asks to support the author’s claim that the market increased local participation. I choose the survey showing more residents became vendors or volunteers after it opened. Two asks to weaken a claim that a tutoring program caused score gains. I choose the evidence that participants were selected based on improving scores before the program. Three asks which quotation best illustrates the narrator’s uncertainty. I choose the line where she pauses and says she cannot tell whether the path is familiar.
+
+Microphone: All three. Explain why question two is not about whether scores rose.
+
+System audio: Scores can rise and the causal claim can still be weak. If the participants were already improving, the program may not be the reason.
+
+Microphone: Excellent. We have about fifteen minutes. I want a final mixed sprint: eight questions in ten minutes, then review your decision notes. Use your approved extended-time pace; this is a short sprint for process, not a full simulation.
+
+System audio: Starting. One, transition result. Two, ratio asks total, answer seventy-two. Three, boundary complete plus complete, semicolon. Four, evidence strengthen, choice D. Five, unit conversion, I got twelve meters per second. Six, transition contrast. Seven, scale area, length factor three means area factor nine, answer four hundred fifty. Eight, punctuation extra phrase, paired dashes. Done in eight minutes forty seconds.
+
+Microphone: Seven correct. Number five needs another look. The fictional runner covers three hundred sixty meters in twenty-four seconds. What rate did you compute?
+
+System audio: I said twelve, but three hundred sixty divided by twenty-four is fifteen. I think I divided by thirty in my head.
+
+Microphone: What check could catch it?
+
+System audio: Fifteen times twenty-four is three hundred sixty. Also twelve times twenty-four is only two hundred eighty-eight, so it doesn’t fit the original.
+
+Microphone: Good. Was the representation correct?
+
+System audio: Yes. It was arithmetic. My C step should include substituting or multiplying back when the numbers are easy.
+
+Microphone: Exactly. Not every error needs a new strategy. Here the strategy was correct; the check was skipped. Write: “Correct setup, unchecked division; multiply rate by time.”
+
+System audio: Done.
+
+Microphone: How did the sprint feel?
+
+System audio: Better. I wasn’t rushing, but I also didn’t debate every answer. The relationship labels made transitions fast. I need to actually do the check, not just draw a check mark.
+
+Microphone: That is an excellent observation. A symbolic check mark is not a check. It should correspond to an action: units cancel, substitute, recombine ratio parts, remove the interruption, or restate the relationship.
+
+System audio: Maybe I should write a tiny letter for the type of check, like U for units or S for substitute.
+
+Microphone: You can try that on homework if it helps, but keep it light. The goal is the action, not a complicated code. Homework has two parts. First, Fictional Transition Set B, questions one through fifteen. Write a relationship label before every answer. Second, redo ratio problems R1 and R2 with units on every line.
+
+System audio: Do I redo the whole Foundations Set too?
+
+Microphone: Only the three missed questions, once without notes and once with a new near-neighbor question. I’ll attach fictional parallel questions rather than copying the originals. For the punctuation one, explain why “however” uses a semicolon in that structure.
+
+System audio: Okay. When should I use the timer?
+
+Microphone: Time the fifteen transition questions as one set, but complete the ratio work untimed. Record total time and any question where you changed your relationship label after looking at choices. That will show us whether choices are still pulling you away from your initial reasoning.
+
+System audio: Got it. I have soccer on Thursday, so I may do the set Friday.
+
+Microphone: Friday is fine. Our next session is Tuesday at the same time. Anything today that you want me to explain differently before we end?
+
+System audio: No, I think the difference between a transition and a conjunction finally makes sense. And for ratios, writing units feels less annoying now because it actually tells me which way to divide.
+
+Microphone: Excellent. Give me your biggest takeaway in one sentence.
+
+System audio: Figure out the job of the answer before I look for it, and make the check a real action instead of a check mark.
+
+Microphone: Perfect. Nice work today, Theo. See you Tuesday.
+
+System audio: See you.
+
+Microphone: Theo, one quick check before you disconnect. I want to make sure the difference between percent change and percentage points is clear. If a survey result rises from forty percent to fifty percent, what is the increase in percentage points?
+
+System audio: Ten percentage points.
+
+Microphone: What is the percent increase relative to the original forty percent?
+
+System audio: The change is ten divided by forty, so twenty-five percent.
+
+Microphone: Exactly. Those are different answers to different questions. Now suppose a team’s success rate falls from eighty percent to sixty percent.
+
+System audio: Down twenty percentage points. Relative decrease is twenty over eighty, twenty-five percent.
+
+Microphone: Good. How does I-R-C help?
+
+System audio: Identify whether it asks for percentage-point difference or percent decrease. Represent with subtraction for points or change over original for percent. Check that I used the original value as the denominator.
+
+Microphone: Perfect. Add that as one optional note beside the ratio homework; we’ll revisit it when we do data analysis.
+
+System audio: Okay. Now I’m really leaving.
+
+Microphone: Fair enough. Have a good night.
+
+System audio: Thanks. I’ll do the transition set Friday and write the relationship labels before opening the choices.
+
+Microphone: Good. Also mark any problem where the choice list changed your original label. We’ll use those marks to see whether the issue is identifying the relationship or trusting it.
+
+System audio: That makes sense. If my original label was right, I shouldn’t let a fancy word talk me out of it.
+
+Microphone: Exactly—unless rereading the passage gives you a concrete reason to revise. See you Tuesday.

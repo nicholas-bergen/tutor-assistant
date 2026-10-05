@@ -1,0 +1,10 @@
+{
+  "source_system": "granola",
+  "source_record_type": "granola_meeting",
+  "external_id": "granola-meeting-maya-01",
+  "event_at": "2026-08-27T17:00:00-04:00",
+  "recorded_at": "2026-08-27T18:30:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {"title":"Maya Patel - SAT tutoring","participant_display_names":["Maya Patel","Jordan Lee"],"started_at":"2026-08-27T17:00:00-04:00","ended_at":"2026-08-27T18:30:00-04:00","transcript_file":"transcript.txt","transcript_sha256":"ce8afdeaad0ce3393cc74dcce2a26071e5330a7d4dd89ff7eb8d568eefd62d8d"}
+}

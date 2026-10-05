@@ -1,0 +1,20 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "dashboard_lesson",
+  "external_id": "dashboard-lesson-maya-01",
+  "event_at": "2026-08-27T17:00:00-04:00",
+  "recorded_at": "2026-08-27T19:15:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {
+    "student_external_id": "dashboard-student-maya-patel",
+    "scheduled_start_at": "2026-08-27T17:00:00-04:00",
+    "duration_minutes": 90,
+    "status": "complete",
+    "subjects": ["SAT Math", "SAT Reading and Writing"],
+    "coach_display_name": "Jordan Lee",
+    "content_and_concepts": ["Math: Algebra - Linear equations", "Math: Data Analysis - Two-way tables", "Reading and Writing: Boundaries"],
+    "noteworthy_information": "Maya practiced translating dense linear word problems before calculating and used table totals to check conditional percentages. She caught two setup errors independently after adding a final reasonableness check. We ended with punctuation boundaries and focused on identifying complete clauses before considering an answer choice.",
+    "homework": ["Complete Fictional Mixed Practice Set 3, questions 1-18.", "Record the decision point for every missed or uncertain question."]
+  }
+}

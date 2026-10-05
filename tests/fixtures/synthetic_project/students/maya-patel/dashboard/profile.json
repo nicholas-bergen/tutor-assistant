@@ -1,0 +1,29 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "student_profile",
+  "external_id": "dashboard-student-maya-patel",
+  "event_at": "2026-08-01T09:00:00-04:00",
+  "recorded_at": "2026-08-01T09:02:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {
+    "display_name": "Maya Patel",
+    "graduation_year": 2027,
+    "student_personality": "Reflective and self-directed; she explains her reasoning carefully and responds well to precise feedback.",
+    "general_goals": "Raise an initial 1370 diagnostic toward a 1500 target while improving pacing and confidence on unfamiliar question forms.",
+    "family_life": "Family is supportive and prefers a predictable weekly schedule.",
+    "learning_style": "Learns best by comparing two solution paths, naming the decision point, and then completing a short mixed set independently.",
+    "extracurriculars": ["Robotics team design lead", "Classical piano"],
+    "current_academics": ["AP Calculus AB", "AP English Language", "AP Biology"],
+    "prior_test_preparation": "Completed a broad school workshop but wanted more targeted practice and clearer error analysis.",
+    "colleges_of_interest": ["North Coast University", "Lakeside Institute of Technology"],
+    "additional_interests": ["Biomedical engineering", "Accessible product design"],
+    "contact": {
+      "email": "privacy-sentinel-maya@example.test",
+      "phone_numbers": ["+1-202-555-0101"],
+      "address": "100 Example Way, Exampleville, NY 10001",
+      "time_zone": "America/New_York"
+    },
+    "legacy_dashboard_color": "teal"
+  }
+}

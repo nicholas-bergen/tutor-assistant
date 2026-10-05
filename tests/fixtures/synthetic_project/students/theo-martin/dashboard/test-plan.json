@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"test_plan","external_id":"dashboard-test-plan-theo-01","event_at":"2026-08-18T12:00:00-05:00","recorded_at":"2026-08-18T12:05:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"student_external_id":"dashboard-student-theo-martin","test_type":"SAT","target_tests":["2027-03-13"],"default_accommodation":"extended_time_50","proctor_notes":"Approved 50% extended time; use one consistent digital-testing setting.","online_testing":true}
+}

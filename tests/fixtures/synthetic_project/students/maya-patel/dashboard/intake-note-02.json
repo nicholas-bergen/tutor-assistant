@@ -1,0 +1,16 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "intake_note",
+  "external_id": "dashboard-intake-maya-02",
+  "event_at": "2026-08-20T10:00:00-04:00",
+  "recorded_at": "2026-08-20T10:06:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {
+    "student_external_id": "dashboard-student-maya-patel",
+    "posted_to": "Maya Patel",
+    "author_display_name": "Jordan Lee",
+    "body": "After reaching 1430 on Practice Test B, Maya updated her target to 1500. October remains the primary test date; November is now a contingency.",
+    "supersedes_external_id": "dashboard-intake-maya-01"
+  }
+}

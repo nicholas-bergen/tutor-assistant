@@ -1,0 +1,10 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "test_result",
+  "external_id": "dashboard-test-result-maya-03",
+  "event_at": "2026-08-22T09:00:00-04:00",
+  "recorded_at": "2026-08-22T13:35:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {"student_external_id":"dashboard-student-maya-patel","test_date":"2026-08-22","test_name":"Fictional Practice Test C","accommodation":"standard_time","is_official":false,"score":1480,"math_score":750,"reading_writing_score":730,"dashboard_reported_percentile":98.0,"dashboard_reported_superscore":1480}
+}

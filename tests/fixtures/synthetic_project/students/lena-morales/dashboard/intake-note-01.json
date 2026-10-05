@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"intake_note","external_id":"dashboard-intake-lena-01","event_at":"2026-09-12T09:30:00-07:00","recorded_at":"2026-09-12T10:03:00-07:00","captured_at":"2026-10-10T09:00:00-07:00","fixture_schema_version":1,
+  "payload":{"student_external_id":"dashboard-student-lena-morales","posted_to":"Lena Morales","author_display_name":"Avery Kim","body":"Short engagement before an October retake. No score report or test plan is on file yet. Lena asked to focus on questions she can improve quickly: transitions, sentence boundaries, and calculator setup. Accommodation status was not recorded at intake."}
+}

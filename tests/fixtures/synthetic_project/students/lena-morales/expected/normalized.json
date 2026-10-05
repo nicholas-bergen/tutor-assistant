@@ -1,0 +1,14 @@
+{
+  "student": {
+    "student_id": "c1111111-1111-4111-8111-111111111111",
+    "display_name": "Lena Morales"
+  },
+  "lessons": [
+    {
+      "lesson_id": "c1000000-0000-4000-8000-000000000001",
+      "student_id": "c1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": "dashboard-lesson-lena-01",
+      "scheduled_start_at": "2026-09-14T16:00:00-07:00"
+    }
+  ]
+}

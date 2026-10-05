@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"intake_note","external_id":"dashboard-intake-theo-01","event_at":"2026-08-10T10:30:00-05:00","recorded_at":"2026-08-10T11:05:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"student_external_id":"dashboard-student-theo-martin","posted_to":"Theo Martin","author_display_name":"Sam Rivera","body":"Theo is planning for a spring SAT and has an initial goal of 1250. He moves quickly and often loses points to setup or direction-reading errors. Approved 50% extended time is already documented. The early priority is a repeatable process, not maximum speed."}
+}

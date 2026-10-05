@@ -1,0 +1,145 @@
+{
+  "fixture_schema_version": 1,
+  "students": [
+    {
+      "slug": "maya-patel",
+      "source_records": [
+        "dashboard/profile.json",
+        "dashboard/test-plan.json",
+        "dashboard/test-result-01.json",
+        "dashboard/test-result-02.json",
+        "dashboard/test-result-03.json",
+        "dashboard/test-result-04.json",
+        "dashboard/intake-note-01.json",
+        "dashboard/intake-note-02.json",
+        "dashboard/lesson-01.json",
+        "dashboard/lesson-02.json",
+        "dashboard/lesson-ambiguous-a.json",
+        "dashboard/lesson-ambiguous-b.json",
+        "granola/meeting-01/meeting.json",
+        "granola/meeting-02/meeting.json",
+        "granola/meeting-03/meeting.json",
+        "generated/lesson-01-draft.json",
+        "generated/lesson-01-final.json",
+        "generated/lesson-02-draft.json",
+        "generated/lesson-02-final.json"
+      ],
+      "normalized_records": "expected/normalized.json",
+      "ai_safe_profile": "expected/ai-safe-profile.json",
+      "expected_scores": "expected/scores.json"
+    },
+    {
+      "slug": "theo-martin",
+      "source_records": [
+        "dashboard/profile.json",
+        "dashboard/test-plan.json",
+        "dashboard/test-result-01.json",
+        "dashboard/test-result-02.json",
+        "dashboard/test-result-03.json",
+        "dashboard/intake-note-01.json",
+        "dashboard/lesson-01.json",
+        "dashboard/lesson-02.json",
+        "dashboard/lesson-future.json",
+        "granola/meeting-01/meeting.json",
+        "granola/meeting-02/meeting.json",
+        "generated/lesson-01-draft.json",
+        "generated/lesson-01-final.json",
+        "generated/lesson-02-draft.json",
+        "generated/lesson-02-final.json"
+      ],
+      "normalized_records": "expected/normalized.json",
+      "ai_safe_profile": "expected/ai-safe-profile.json",
+      "expected_scores": "expected/scores.json"
+    },
+    {
+      "slug": "lena-morales",
+      "source_records": [
+        "dashboard/profile.json",
+        "dashboard/intake-note-01.json",
+        "dashboard/lesson-01.json",
+        "granola/meeting-01/meeting.json",
+        "generated/lesson-01-draft.json",
+        "generated/lesson-01-final.json"
+      ],
+      "normalized_records": "expected/normalized.json",
+      "ai_safe_profile": "expected/ai-safe-profile.json",
+      "expected_scores": "expected/scores.json"
+    }
+  ],
+  "scenarios": [
+    {
+      "scenario_id": "maya-linear-and-data",
+      "student_slug": "maya-patel",
+      "application_lesson_id": "a1000000-0000-4000-8000-000000000001",
+      "expected_outcome": "matched",
+      "dashboard_candidate_external_ids": ["dashboard-lesson-maya-01"],
+      "granola_meeting_external_id": "granola-meeting-maya-01",
+      "selected_dashboard_external_id": "dashboard-lesson-maya-01"
+    },
+    {
+      "scenario_id": "maya-rhetorical-synthesis",
+      "student_slug": "maya-patel",
+      "application_lesson_id": "a1000000-0000-4000-8000-000000000002",
+      "expected_outcome": "matched",
+      "dashboard_candidate_external_ids": ["dashboard-lesson-maya-02"],
+      "granola_meeting_external_id": "granola-meeting-maya-02",
+      "selected_dashboard_external_id": "dashboard-lesson-maya-02"
+    },
+    {
+      "scenario_id": "maya-ambiguous-calendar-duplicate",
+      "student_slug": "maya-patel",
+      "application_lesson_id": "a1000000-0000-4000-8000-000000000003",
+      "expected_outcome": "ambiguous",
+      "dashboard_candidate_external_ids": [
+        "dashboard-lesson-maya-ambiguous-a",
+        "dashboard-lesson-maya-ambiguous-b"
+      ],
+      "granola_meeting_external_id": "granola-meeting-maya-03",
+      "selected_dashboard_external_id": null
+    },
+    {
+      "scenario_id": "theo-foundations",
+      "student_slug": "theo-martin",
+      "application_lesson_id": "b1000000-0000-4000-8000-000000000001",
+      "expected_outcome": "matched",
+      "dashboard_candidate_external_ids": ["dashboard-lesson-theo-01"],
+      "granola_meeting_external_id": "granola-meeting-theo-01",
+      "selected_dashboard_external_id": "dashboard-lesson-theo-01"
+    },
+    {
+      "scenario_id": "theo-transitions-and-ratios",
+      "student_slug": "theo-martin",
+      "application_lesson_id": "b1000000-0000-4000-8000-000000000002",
+      "expected_outcome": "matched",
+      "dashboard_candidate_external_ids": ["dashboard-lesson-theo-02"],
+      "granola_meeting_external_id": "granola-meeting-theo-02",
+      "selected_dashboard_external_id": "dashboard-lesson-theo-02"
+    },
+    {
+      "scenario_id": "theo-future-lesson",
+      "student_slug": "theo-martin",
+      "application_lesson_id": "b1000000-0000-4000-8000-000000000003",
+      "expected_outcome": "future_no_transcript",
+      "dashboard_candidate_external_ids": ["dashboard-lesson-theo-future"],
+      "granola_meeting_external_id": null,
+      "selected_dashboard_external_id": "dashboard-lesson-theo-future"
+    },
+    {
+      "scenario_id": "lena-short-strategy-session",
+      "student_slug": "lena-morales",
+      "application_lesson_id": "c1000000-0000-4000-8000-000000000001",
+      "expected_outcome": "matched",
+      "dashboard_candidate_external_ids": ["dashboard-lesson-lena-01"],
+      "granola_meeting_external_id": "granola-meeting-lena-01",
+      "selected_dashboard_external_id": "dashboard-lesson-lena-01"
+    }
+  ],
+  "privacy_sentinels": [
+    "privacy-sentinel-maya",
+    "privacy-sentinel-theo",
+    "privacy-sentinel-lena",
+    "+1-202-555-0101",
+    "+1-202-555-0102",
+    "+1-202-555-0103"
+  ]
+}

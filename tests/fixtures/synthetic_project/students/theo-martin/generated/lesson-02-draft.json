@@ -1,0 +1,4 @@
+{
+  "source_system":"generated","source_record_type":"lesson_summary_draft","external_id":"generated-draft-theo-02","event_at":"2026-09-08T20:00:00-05:00","recorded_at":"2026-09-08T20:05:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"dashboard_lesson_external_id":"dashboard-lesson-theo-02","granola_meeting_external_id":"granola-meeting-theo-02","model_name":"fictional-summary-model-v1","noteworthy_information":"Theo did transitions and ratios. He improved and caught a unit mistake.","homework":["Finish transition questions and ratios."]}
+}

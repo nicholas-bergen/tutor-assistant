@@ -1,0 +1,269 @@
+Microphone: Hi Maya, can you hear me clearly?
+
+System audio: Yes, I can hear you. Sorry, I was moving my calculator window because it was covering the question.
+
+Microphone: No problem. Before we begin, how did the mixed set feel? I saw the answer log you shared, but I want your version before I tell you what I noticed.
+
+System audio: The beginning felt fine. I missed two math questions that I think I knew how to do, which was annoying. On the reading and writing part I did better until the punctuation questions. Then I started changing answers because two of them looked almost the same.
+
+Microphone: That matches the pattern in the log. The encouraging part is that neither math miss was a content gap. One was a translation issue and one was a final-answer issue. Those are useful because a process can catch them. What did you write for the first one, the bike-rental problem?
+
+System audio: I wrote an equation for the base fee plus the hourly amount. I got twenty-eight, but the answer was four. I realized afterward that twenty-eight was the total cost and it wanted the number of hours.
+
+Microphone: Exactly. I want to separate two steps that your brain compressed. First, represent the situation. Second, answer the requested quantity. You represented the situation correctly. The error happened after the algebra. Read the last sentence aloud, and put a verbal label on what the answer box wants.
+
+System audio: “How many hours did Ren rent the bicycle?” So the answer box wants hours, not dollars.
+
+Microphone: Good. Now say the units of every number in your equation.
+
+System audio: The twelve is dollars for the base fee. The four is dollars per hour. The twenty-eight is total dollars. If I do twenty-eight minus twelve, that is sixteen dollars that came from the hourly charge. Then sixteen dollars divided by four dollars per hour is four hours.
+
+Microphone: That unit narration is not busywork. It makes the division inevitable. If you had stopped with sixteen, the units would still be dollars, so you would know you were not done. Let’s try a fictional version. A studio charges a one-time equipment fee of eighteen dollars plus seven dollars per hour. A customer pays sixty dollars. What are you solving for, and what equation would you use?
+
+System audio: I’m solving for hours. Eighteen plus seven h equals sixty. Subtract eighteen, so seven h equals forty-two, and h is six. Six hours.
+
+Microphone: Check it in the story rather than only in the equation.
+
+System audio: Six hours at seven dollars is forty-two dollars, plus eighteen is sixty. Yes.
+
+Microphone: Great. Now let’s make the wording denser. A community garden buys identical packets of seeds. There is a delivery charge of fourteen dollars, and the total for nine packets with delivery is fifty-nine dollars. What does one packet cost? Don’t calculate yet. Tell me the quantities and their relationships.
+
+System audio: There are nine packets. Each packet has the same price, which I’ll call p. Nine p is the packet cost, and then fourteen is added for delivery. So nine p plus fourteen equals fifty-nine. The question wants dollars per packet.
+
+Microphone: Now calculate.
+
+System audio: Fifty-nine minus fourteen is forty-five. Forty-five divided by nine is five dollars per packet.
+
+Microphone: What was different from your first attempt on the homework problem?
+
+System audio: I didn’t start doing arithmetic as soon as I saw numbers. I said what the variable meant and what unit the answer needed.
+
+Microphone: That is the habit. You do not need a long written paragraph every time. A two-second question—“What does the box want?”—is enough. Let’s look at the second math miss. You found that x was eleven, but selected an answer corresponding to x minus three. Walk me through what happened.
+
+System audio: The equation was something like three x plus five equals thirty-eight. I solved x equals eleven. The question said the expression x minus three represented the number of large tiles, but I forgot that line and picked eleven.
+
+Microphone: Right. Your algebra answered an intermediate variable, not the prompt. On the digital SAT, the variable can be deliberately defined one step away from the requested quantity. I want a final checkpoint: after solving, return to the question stem and complete the sentence “Therefore, the requested value is…” Try it here.
+
+System audio: Therefore, the requested number of large tiles is x minus three, which is eight.
+
+Microphone: Good. We’ll use that sentence on the next three questions. Open Fictional Mixed Practice Set 3, question four. Read only the setup and then pause.
+
+System audio: A theater sold adult and student tickets. The number of student tickets was twenty more than twice the number of adult tickets. A total of two hundred tickets were sold. How many student tickets were sold?
+
+Microphone: Define one variable. Which would you choose?
+
+System audio: Let a be adult tickets. Then student tickets are two a plus twenty. Total means a plus two a plus twenty equals two hundred.
+
+Microphone: Solve, but keep the label attached.
+
+System audio: Three a plus twenty equals two hundred. Three a is one hundred eighty. a is sixty adult tickets. Therefore the requested number of student tickets is two times sixty plus twenty, which is one hundred forty.
+
+Microphone: Verify the total.
+
+System audio: Sixty plus one hundred forty is two hundred. That works.
+
+Microphone: Nice. Now, could you instead define s as student tickets?
+
+System audio: I could, but then adults would be something like s minus twenty divided by two. That seems more awkward.
+
+Microphone: Exactly. Both are valid, but one makes the relationship easier to express. That is a decision point worth recording: choose the variable that keeps the relationship simple. Let’s move to the two-way table question because it has the same underlying issue—keeping the requested group clear. Can you describe the table without reading every number?
+
+System audio: It has students who take music and students who don’t, split by ninth grade and tenth grade. There are row totals and column totals.
+
+Microphone: The question asks, “Of the tenth-grade students surveyed, what fraction take music?” Which number belongs in the denominator?
+
+System audio: The total tenth-grade students, not the total students who take music and not the whole survey.
+
+Microphone: Yes. The phrase after “of” usually defines the reference group. Point to that number.
+
+System audio: The tenth-grade row total is seventy-two. The tenth graders who take music are thirty.
+
+Microphone: So the fraction is?
+
+System audio: Thirty over seventy-two, which simplifies to five over twelve.
+
+Microphone: And if the question instead asked, “Of the students who take music, what fraction are tenth graders?”
+
+System audio: The numerator stays thirty, but now the denominator is the music column total. That is fifty, so thirty fiftieths or three fifths.
+
+Microphone: Excellent. Same cell, different reference group. This is why immediately dividing two visible numbers is risky. Say the check you’ll use.
+
+System audio: Identify the “of” group and use that group’s total as the denominator.
+
+Microphone: Good. Now I’m going to give you a fictional table verbally, which is harder because you cannot just point. A survey has eighty commuters. Fifty commute by train and thirty by bus. Of the train commuters, thirty-two buy coffee. Of the bus commuters, twelve buy coffee. What percentage of the coffee buyers commute by bus?
+
+System audio: I need the coffee buyers as the reference group because it says “of the coffee buyers.” There are thirty-two plus twelve, so forty-four coffee buyers. Twelve of those commute by bus. Twelve over forty-four is three over eleven, which is about twenty-seven point three percent.
+
+Microphone: Good. What tempting wrong answer might someone choose?
+
+System audio: Twelve over thirty, or forty percent, because thirty is the bus total. But that would answer what percent of bus commuters buy coffee.
+
+Microphone: Precisely. Write those two questions next to each other in your error log. Contrasting near-neighbor questions makes the denominator choice more memorable than writing “careless mistake.”
+
+System audio: That makes sense. “Careless” doesn’t really tell me what to do next time.
+
+Microphone: Right. We want a specific decision that can change. Let’s add one layer: weighted averages. The fictional campus club has twenty first-year members with an average of four volunteer hours and thirty second-year members with an average of seven hours. What is the overall average?
+
+System audio: I can’t just average four and seven because the groups are different sizes. Total hours would be twenty times four, which is eighty, plus thirty times seven, which is two hundred ten. Two hundred ninety hours over fifty members is five point eight.
+
+Microphone: Good. How could the two-way-table reference-group habit help here?
+
+System audio: I have to be clear about what the total group is. The denominator is all fifty members, and the numerator is total hours for all of them.
+
+Microphone: Exactly. These are not isolated tricks. Both problems ask you to preserve what the quantities represent. Now I want to switch to reading and writing while the same checking habit is fresh. Open question twelve, the one with the semicolon and colon choices. Read the sentence without the answer choices.
+
+System audio: “The research team expected the coating to reduce heat absorption blank the first trial, however, showed almost no difference.”
+
+Microphone: Before looking at punctuation, identify complete clauses.
+
+System audio: “The research team expected the coating to reduce heat absorption” is complete. “The first trial, however, showed almost no difference” is also complete.
+
+Microphone: So what kinds of punctuation can join them?
+
+System audio: A period or a semicolon. Maybe a comma with a coordinating conjunction, but there isn’t one here.
+
+Microphone: Correct. Now look at the choices.
+
+System audio: Choice A is comma, choice B is semicolon, choice C is colon, and choice D is no punctuation. So B.
+
+Microphone: Why not the colon? I want the grammatical reason, not “it sounds weird.”
+
+System audio: A colon can come after a complete clause, which the first part is, but what follows should explain or introduce something promised by the first clause. Here the second sentence contrasts with the expectation rather than explaining what “heat absorption” means.
+
+Microphone: Very good. A colon is not simply a stronger pause. It expresses a relationship. What does “however” tell you about the relationship?
+
+System audio: Contrast.
+
+Microphone: Now try this one: “The archive contains one especially fragile item blank a notebook carried during the expedition.” Complete clause before the blank?
+
+System audio: Yes. “The archive contains one especially fragile item” can stand alone.
+
+Microphone: What follows?
+
+System audio: A noun phrase that identifies the item, not another complete clause. So a colon works: item, colon, a notebook.
+
+Microphone: Exactly. Notice how you did not need to hear the sentence in a dramatic voice. You classified both sides and the relationship. Next: “The telescope, which was installed last year blank has already recorded three unusual events.”
+
+System audio: The “which was installed last year” part is extra information. It needs a comma after “year” to close the interruption. There is already a comma before “which.”
+
+Microphone: Yes. What is the core sentence after you remove the interruption?
+
+System audio: “The telescope has already recorded three unusual events.”
+
+Microphone: That removal test is reliable. I’m going to make it slightly messier: “The lead engineer, along with two graduate assistants blank plans to repeat the calibration.” What is the subject of “plans”?
+
+System audio: The lead engineer. “Along with two graduate assistants” is an interruption, so I need a comma after assistants, and “plans” stays singular.
+
+Microphone: Great. You almost changed to “plan,” didn’t you?
+
+System audio: I did. The plural noun right next to the verb was distracting.
+
+Microphone: That is normal. Strip the interruption: “The lead engineer plans.” Now, let’s do a short timed cluster—four boundary questions, about forty-five seconds each. The goal is not speed for its own sake. The goal is to see whether the classification routine holds when the clock is visible. Tell me only the clause classification and answer letter.
+
+System audio: Okay. First one: complete, complete, contrast marker, so semicolon, B. Second: complete before, explanation after but not a clause, colon, C. Third: the phrase is nonessential, paired commas, A. Fourth: first part is dependent because it starts with “although,” then independent clause, comma, D.
+
+Microphone: You used two minutes and twenty seconds, and all four are correct. More importantly, I heard a reason each time. How did that feel compared with the homework?
+
+System audio: Less slippery. On the homework I stared at the answer choices and tried them one at a time. Here I decided what punctuation I needed before I looked.
+
+Microphone: That is the decision point we want. The choices are designed to compete for your attention. If you establish the grammatical structure first, the list becomes confirmation rather than four separate possibilities.
+
+System audio: I think I also change answers when I don’t have a reason. If I only chose what sounded okay, another one can sound okay thirty seconds later.
+
+Microphone: Exactly. A reason gives the answer stability. Let’s circle back to pacing. Your practice set shows you spent almost four minutes on one hard nonlinear question, then rushed two questions that were within reach. What rule do you currently use to move on?
+
+System audio: Honestly, I don’t have one. If I think I should be able to get it, I keep going.
+
+Microphone: That is understandable, but “I should be able to” can become a trap. Let’s create an observable rule. After about seventy-five seconds, ask: Do I have a representation and a next step? If yes, continue briefly. If no, mark it and move. On a second pass, you can invest more time. What do you think?
+
+System audio: That feels better than a strict one-minute cutoff. Sometimes I’m close at one minute, but sometimes I’ve just reread it three times and I’m nowhere.
+
+Microphone: Right. We are measuring progress, not merely time. I want you to practice the decision now. Here is a fictional problem: a parabola has vertex at three, negative four and passes through five, eight. The question asks for the value of its leading coefficient. Start, and narrate just enough that I can tell whether you have a next step.
+
+System audio: Vertex form is y equals a times x minus three squared minus four. The point five, eight goes in: eight equals a times two squared minus four. Add four, twelve equals four a, so a is three.
+
+Microphone: Great. You had a representation immediately, so continuing made sense. Now another: a function is defined by a complicated table and asks which of four transformations could produce a second table. Don’t solve it fully. What would count as a representation?
+
+System audio: I would pick corresponding input-output pairs and calculate how the outputs changed. Maybe check whether all outputs added the same amount or multiplied by the same amount. If I can’t identify a pattern after two pairs, I’d mark it and move.
+
+Microphone: Good. That is a plan. The move-on rule is not “hard-looking question equals skip.” It is “no usable representation or next action equals postpone.”
+
+System audio: Can I write that on my scratch paper at the beginning? Maybe “representation plus next step.”
+
+Microphone: Absolutely. Keep it short. Now, I want you to do two mixed questions independently while I stay quiet. Say “done” when you have an answer and a check.
+
+System audio: For the first, I set the variable as the number of adult memberships. The student memberships are three times that minus eight. The total equation gives twenty-four adult memberships. The question asks for all memberships, so I added adult and student and got eighty-eight. I checked that three times twenty-four minus eight is sixty-four, plus twenty-four is eighty-eight. Done.
+
+Microphone: Good. Second one.
+
+System audio: The table question asks, “Of the respondents who preferred the morning session,” so that column total is my denominator. There are forty morning respondents, and fourteen are returning participants. Fourteen over forty is thirty-five percent. I checked that I didn’t use the returning-participant row total. Done.
+
+Microphone: Excellent. Those are exactly the two errors from the original set, now handled with a repeatable check. Let’s take a two-minute reset, then we’ll do one final writing cluster.
+
+System audio: Okay. I’m going to get water.
+
+System audio: There’s some noise in the hallway—one second. Okay, I’m back.
+
+Microphone: Welcome back. For the final cluster, I want you to explain one wrong option each time. Question one.
+
+System audio: The first clause is complete and the second is complete. There is no conjunction, so I chose the semicolon. The comma is wrong because it would splice the two clauses.
+
+Microphone: Good. Question two.
+
+System audio: The text between the commas is nonessential. I chose paired commas. The choice with only the first comma is wrong because it opens an interruption and never closes it.
+
+Microphone: Good. Question three.
+
+System audio: The first clause says the lab adopted one unusual policy, and what comes after names the policy. I chose the colon. The semicolon is wrong because the words after it are not a complete clause.
+
+Microphone: Good. Last one.
+
+System audio: “Because the samples had been exposed to air” is dependent. It needs a comma before the independent clause. A semicolon can’t follow the dependent part.
+
+Microphone: Four for four. Let’s summarize your two main decision rules today. Give them to me in your own words.
+
+System audio: For math, name what the variable means and then return to what the answer box actually wants. I should keep units attached, especially in rates and tables. For boundaries, classify the pieces before looking at choices: complete clause, dependent clause, or extra phrase, and then check the relationship.
+
+Microphone: And the pacing rule?
+
+System audio: After about seventy-five seconds, ask whether I have a representation and a next step. If I don’t, mark it and come back instead of proving to myself that I can eventually solve it.
+
+Microphone: Perfect. Homework is Fictional Mixed Practice Set 3, questions one through eighteen. For any miss or any question where you were uncertain, record the decision point—not just the topic. Examples would be “identified the wrong reference group” or “looked at punctuation choices before classifying clauses.”
+
+System audio: Should I time the whole thing?
+
+Microphone: Use a loose timer, but accuracy and process come first. Aim for the normal module pace. If one question exceeds the move-on rule, mark it and continue; then record whether the second pass changed your answer. That gives us better information than forcing a perfect time.
+
+System audio: Got it. And are we still doing Thursday next week?
+
+Microphone: Yes, Thursday at five your time. I’ll put the homework in the dashboard summary. Before we finish, anything from today that still feels fuzzy?
+
+System audio: I think the difference between a colon and semicolon is clearer. I may need more practice noticing when the part after the blank isn’t a full sentence.
+
+Microphone: That is a good target. When you do the homework, underline the subject and finite verb after the blank if you think it is a clause. If you cannot find both, it probably cannot stand after a semicolon. We’ll start there next time.
+
+System audio: Okay. Thanks, this was helpful.
+
+Microphone: You’re welcome. Nice work today, especially the way you checked the last two math questions without prompting. See you next week.
+
+System audio: Wait, before we stop, can I check one thing about semicolons? If there is a transition like “however,” does the semicolon always go immediately before it?
+
+Microphone: In the structure we practiced—complete clause, then “however,” then another complete clause—yes: semicolon before “however,” comma after it. But “however” can also move inside the second sentence. For example, “The result, however, did not change.” In that case it is surrounded by commas and there is no first clause to join at that location.
+
+System audio: So I still have to identify the clauses. I can’t just see “however” and automatically choose a semicolon.
+
+Microphone: Exactly. Try this: “The first sample was damaged blank the second sample, however, remained intact.”
+
+System audio: Both main pieces are complete. I need a semicolon at the blank, and the commas around “however” already handle the interruption inside the second clause.
+
+Microphone: Correct. Now: “The first sample, however blank was not damaged.”
+
+System audio: Comma after “however,” because it is interrupting one complete clause.
+
+Microphone: Perfect. That distinction belongs in your boundary notes. Anything else?
+
+System audio: No, that was it. I kept thinking the word itself controlled the punctuation.
+
+Microphone: The sentence structure controls it. That is a good final reminder. See you Thursday.
+
+System audio: See you Thursday. I’ll mark the clauses before I look at the punctuation choices.

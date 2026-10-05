@@ -1,0 +1,15 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "intake_note",
+  "external_id": "dashboard-intake-maya-01",
+  "event_at": "2026-07-10T15:00:00-04:00",
+  "recorded_at": "2026-07-10T15:20:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {
+    "student_external_id": "dashboard-student-maya-patel",
+    "posted_to": "Maya Patel",
+    "author_display_name": "Jordan Lee",
+    "body": "Initial target is 1450. Maya reports that pacing becomes inconsistent late in the second module. She wants targeted work rather than a broad survey course. Family expects to use the October SAT as the main test date."
+  }
+}

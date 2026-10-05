@@ -1,0 +1,147 @@
+Microphone: Hi Lena, can you hear me?
+
+System audio: Yes. Sorry, I joined right at four. I was getting home from practice.
+
+Microphone: No problem. We have forty-five minutes, so we’ll focus on three high-leverage moves rather than trying to cover everything: transitions, sentence boundaries, and one calculator setup. Does that match what you wanted?
+
+System audio: Perfect. I mostly need things I can actually use next month. I don’t have time for a huge program.
+
+Microphone: Understood. Let’s start with transitions. The fastest reliable method is to name the relationship before looking at the answer choices. Read this fictional pair of sentences: “The museum expected only a few visitors during the storm. Blank, more than two hundred people attended the evening program.” What relationship do you hear?
+
+System audio: Opposite of what was expected. Contrast or surprise.
+
+Microphone: Good. Choices are “Similarly,” “However,” “For example,” and “Therefore.”
+
+System audio: “However.”
+
+Microphone: Exactly. Next: “The museum extended its evening hours. Blank, attendance at weekday programs increased.”
+
+System audio: Cause and effect. “As a result.”
+
+Microphone: Good. Next: “Several programs drew new visitors. Blank, a workshop on restoring family photographs filled every seat.”
+
+System audio: Example. “For instance.”
+
+Microphone: Great. Those three labels—contrast, result, example—cover many questions. Add “continuation” for another point in the same direction. Try: “The new archive is easier to search. Blank, its climate-control system better protects fragile documents.”
+
+System audio: Another benefit, so continuation. “Moreover” or “Additionally.”
+
+Microphone: Exactly. What happens if you start by reading four transition words without labeling the relationship?
+
+System audio: I can convince myself that two or three sound okay. Especially “however.” I use it too much.
+
+Microphone: Most students do. One-word label first. Let’s try four quickly. I’ll read the surrounding ideas; you give only the label.
+
+System audio: Ready.
+
+Microphone: The first experiment showed no effect. The second used a larger sample and found a clear effect.
+
+System audio: Contrast.
+
+Microphone: The road was closed by flooding. Deliveries were delayed.
+
+System audio: Result.
+
+Microphone: Many desert plants conserve water. The silverleaf plant closes tiny openings during the hottest hours.
+
+System audio: Example.
+
+Microphone: The device is cheaper to manufacture. It also uses less power.
+
+System audio: Continuation.
+
+Microphone: Perfect. Now sentence boundaries. Don’t choose by pause. Ask whether each side is a complete sentence. “The first train arrived early blank the second was delayed.” What do you have?
+
+System audio: “The first train arrived early” is complete. “The second was delayed” is complete.
+
+Microphone: So a comma alone?
+
+System audio: No. Semicolon or period. Or comma plus “but,” since there’s contrast.
+
+Microphone: Good. The choices include comma, semicolon, colon, and no punctuation.
+
+System audio: Semicolon.
+
+Microphone: Next: “Although the first train arrived early blank the second was delayed.”
+
+System audio: The first part starts with although, so it’s not complete by itself. Comma after “early.”
+
+Microphone: Exactly. Next: “The station announced one schedule change blank the final train would leave at ten.”
+
+System audio: First part is complete, and the second part explains the change. Colon.
+
+Microphone: Good. Next: “The final train, delayed by a signal problem blank left at ten.”
+
+System audio: “Delayed by a signal problem” is extra information. There’s a comma before it, so another comma closes it after “problem.” Core sentence is “The final train left at ten.”
+
+Microphone: Excellent. Your quick boundary checklist is: complete or incomplete on each side; then ask whether there is an interruption or an introduction. Let’s do three choices from the fictional review.
+
+System audio: First is complete plus complete, so semicolon, B. Second has a dependent opener, comma, A. Third has an extra description around the scientist’s name—actually around her title—so paired commas, D.
+
+Microphone: All correct. One caution: a colon requires a complete clause before it. “The expedition packed blank water, rope, and blankets.” Colon or no colon?
+
+System audio: No colon because “packed” needs the objects. “The expedition packed” doesn’t feel complete.
+
+Microphone: Right. “The expedition packed three essentials blank water, rope, and blankets.”
+
+System audio: Colon, because “The expedition packed three essentials” is complete and the list names them.
+
+Microphone: Perfect. We have about eighteen minutes. Let’s use the graphing calculator for a system. Enter y equals two x plus one on the first line and y equals negative x plus ten on the second.
+
+System audio: Okay. I see two lines crossing.
+
+Microphone: Use the intersection tool. What point do you get?
+
+System audio: Three, seven.
+
+Microphone: Now connect it to a fictional word problem. One rental plan costs one dollar to start plus two dollars per hour. Another costs ten dollars to start but then decreases—well, that does not make realistic sense as a rental cost. Let me change the context. Two temperature models are represented by those equations. The question asks when the models predict the same temperature. Which coordinate answers “when”?
+
+System audio: The x-coordinate, three. The shared temperature would be the y-coordinate, seven.
+
+Microphone: Exactly. Calculators give points; questions ask for meanings. If the prompt asks “what is the common predicted temperature,” answer seven. If it asks “after how many hours,” answer three.
+
+System audio: That’s one of the mistakes I make. I see the point and just type whichever number looks like the choices.
+
+Microphone: Add a label before finding the intersection: x equals time, y equals temperature. Let’s do another. Enter y equals x squared minus four and y equals two x plus four.
+
+System audio: I see two intersections. One is negative two, zero, and the other is four, twelve.
+
+Microphone: The question asks for the sum of the x-coordinates.
+
+System audio: Negative two plus four is two.
+
+Microphone: The question asks for the greater y-coordinate.
+
+System audio: Twelve.
+
+Microphone: The question asks how many real solutions the system has.
+
+System audio: Two.
+
+Microphone: Great. Same graph, different outputs. What should you check before trusting the graph?
+
+System audio: That I entered both equations correctly, that the window shows the relevant intersections, and that I’m reading the coordinate the question requests.
+
+Microphone: Perfect. Let’s finish with a six-question quick review: two transitions, two boundaries, two calculator interpretations. Work aloud.
+
+System audio: One: first idea is a problem, second is what happened because of it, so result, choice C. Two: both facts are benefits, continuation, choice A. Three: complete clause plus complete clause with no conjunction, semicolon, B. Four: “which opened last year” is extra, so paired commas, D. Five: intersection is five, eleven, and it asks when, so five. Six: there are two intersections and it asks the larger x-value, so I choose three point four, not the y-value.
+
+Microphone: Six for six. Which move feels most useful?
+
+System audio: Labeling the relationship before reading transitions. It takes maybe two seconds and stops me from picking whatever sounds formal.
+
+Microphone: Good. Your homework is intentionally short: Fictional Quick Review, questions one through twelve. Put a one-word relationship label beside the six transition questions. For boundary questions, underline the subject and verb on each side if you think both sides are complete. For the calculator questions, write “x means” and “y means” before reporting the point.
+
+System audio: That is manageable. Do I need to send it before the next session?
+
+Microphone: Bring it to the next session; no need to upload it early. If you have time for only one part, do the transition and boundary questions first. Those are the highest-leverage based on what you told me.
+
+System audio: Okay. I like that this wasn’t a million rules.
+
+Microphone: Good. Keep the summary small: relationship before transition, clause structure before punctuation, requested coordinate before calculator answer. Say those back once.
+
+System audio: Relationship before transition. Clause structure before punctuation. Requested coordinate before the calculator answer.
+
+Microphone: Exactly. Nice work in a short session. I’ll put the homework and those three moves in the lesson summary.
+
+System audio: Thanks. See you next week.

@@ -1,0 +1,4 @@
+{
+  "source_system":"granola","source_record_type":"granola_meeting","external_id":"granola-meeting-theo-01","event_at":"2026-09-01T18:30:00-05:00","recorded_at":"2026-09-01T20:00:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"title":"Theo Martin tutoring","participant_display_names":["Theo Martin","Sam Rivera"],"started_at":"2026-09-01T18:30:00-05:00","ended_at":"2026-09-01T20:00:00-05:00","transcript_file":"transcript.txt","transcript_sha256":"e222fd091f55a427f010befcfad4c11e43fbecfda8dcd0578e88cc6e79892eaf"}
+}

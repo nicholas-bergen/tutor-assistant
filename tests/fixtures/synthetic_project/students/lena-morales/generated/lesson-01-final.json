@@ -1,0 +1,4 @@
+{
+  "source_system":"generated","source_record_type":"reviewed_lesson_summary","external_id":"generated-final-lena-01","event_at":"2026-09-14T16:48:00-07:00","recorded_at":"2026-09-14T17:10:00-07:00","captured_at":"2026-10-10T09:00:00-07:00","fixture_schema_version":1,
+  "payload":{"dashboard_lesson_external_id":"dashboard-lesson-lena-01","draft_external_id":"generated-draft-lena-01","reviewer_display_name":"Avery Kim","noteworthy_information":"In a focused 45-minute session, Lena learned to name the logical relationship before selecting a transition and to test whether both sides of punctuation were complete clauses. She also practiced entering a system in the graphing calculator and reading the intersection in context.","homework":["Complete Fictional Quick Review, questions 1-12.","Write one-word relationship labels beside the six transition questions."]}
+}

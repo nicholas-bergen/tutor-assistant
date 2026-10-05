@@ -1,0 +1,18 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "test_plan",
+  "external_id": "dashboard-test-plan-maya-01",
+  "event_at": "2026-08-20T10:00:00-04:00",
+  "recorded_at": "2026-08-20T10:05:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {
+    "student_external_id": "dashboard-student-maya-patel",
+    "test_type": "SAT",
+    "target_tests": ["2026-10-03", "2026-11-07"],
+    "default_accommodation": "standard_time",
+    "proctor_notes": "Use the standard digital-testing setup.",
+    "online_testing": true,
+    "current_target_score": 1500
+  }
+}

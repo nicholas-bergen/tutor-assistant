@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"dashboard_lesson","external_id":"dashboard-lesson-theo-future","event_at":"2026-10-06T18:30:00-05:00","recorded_at":"2026-09-29T09:00:00-05:00","captured_at":"2026-10-05T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"student_external_id":"dashboard-student-theo-martin","scheduled_start_at":"2026-10-06T18:30:00-05:00","duration_minutes":90,"status":"scheduled","subjects":["SAT Math","SAT Reading and Writing"],"coach_display_name":"Sam Rivera","content_and_concepts":[],"noteworthy_information":null,"homework":[]}
+}

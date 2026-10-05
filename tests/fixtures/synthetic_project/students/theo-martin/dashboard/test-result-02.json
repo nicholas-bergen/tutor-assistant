@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"test_result","external_id":"dashboard-test-result-theo-02","event_at":"2026-09-05T09:00:00-05:00","recorded_at":"2026-09-05T14:10:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"student_external_id":"dashboard-student-theo-martin","test_date":"2026-09-05","test_name":"Fictional Practice Test E","accommodation":"extended_time_50","is_official":false,"score":1200,"math_score":590,"reading_writing_score":610,"dashboard_reported_percentile":75.0,"dashboard_reported_superscore":1200}
+}

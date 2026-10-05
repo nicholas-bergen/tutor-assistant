@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"student_profile","external_id":"dashboard-student-lena-morales","event_at":"2026-09-12T10:00:00-07:00","recorded_at":"2026-09-12T10:02:00-07:00","captured_at":"2026-10-10T09:00:00-07:00","fixture_schema_version":1,
+  "payload":{"display_name":"Lena Morales","graduation_year":2027,"student_personality":null,"general_goals":"Use a small number of high-leverage strategies before an October SAT retake.","family_life":null,"learning_style":null,"extracurriculars":[],"current_academics":[],"prior_test_preparation":null,"colleges_of_interest":[],"additional_interests":[],"contact":{"email":"privacy-sentinel-lena@example.test","phone_numbers":["+1-202-555-0103"],"address":null,"time_zone":"America/Los_Angeles"}}
+}

@@ -1,0 +1,10 @@
+{
+  "source_system": "granola",
+  "source_record_type": "granola_meeting",
+  "external_id": "granola-meeting-maya-03",
+  "event_at": "2026-09-10T17:02:00-04:00",
+  "recorded_at": "2026-09-10T18:31:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {"title":"Maya Patel tutoring","participant_display_names":["Maya Patel","Jordan Lee"],"started_at":"2026-09-10T17:02:00-04:00","ended_at":"2026-09-10T18:31:00-04:00","transcript_file":"transcript.txt","transcript_sha256":"24460e117b9154dd6948d485de79054137a951965fd6deba7b5bbd7c980b6a8c"}
+}

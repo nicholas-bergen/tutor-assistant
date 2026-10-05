@@ -1,0 +1,6 @@
+[
+  {"external_id":"dashboard-test-result-maya-01","test_date":"2026-07-18","score":1370,"math_score":690,"reading_writing_score":680,"dashboard_reported_superscore":1370},
+  {"external_id":"dashboard-test-result-maya-02","test_date":"2026-08-01","score":1430,"math_score":720,"reading_writing_score":710,"dashboard_reported_superscore":1430},
+  {"external_id":"dashboard-test-result-maya-03","test_date":"2026-08-22","score":1480,"math_score":750,"reading_writing_score":730,"dashboard_reported_superscore":1480},
+  {"external_id":"dashboard-test-result-maya-04","test_date":"2026-09-12","score":1510,"math_score":760,"reading_writing_score":750,"dashboard_reported_superscore":1510}
+]

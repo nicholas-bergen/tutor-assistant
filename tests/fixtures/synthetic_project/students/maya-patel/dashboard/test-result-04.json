@@ -1,0 +1,10 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "test_result",
+  "external_id": "dashboard-test-result-maya-04",
+  "event_at": "2026-09-12T08:00:00-04:00",
+  "recorded_at": "2026-09-20T09:00:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {"student_external_id":"dashboard-student-maya-patel","test_date":"2026-09-12","test_name":"September 2026 SAT","accommodation":"standard_time","is_official":true,"score":1510,"math_score":760,"reading_writing_score":750,"dashboard_reported_percentile":99.0,"dashboard_reported_superscore":1510}
+}

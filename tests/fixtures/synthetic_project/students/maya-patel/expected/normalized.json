@@ -1,0 +1,26 @@
+{
+  "student": {
+    "student_id": "a1111111-1111-4111-8111-111111111111",
+    "display_name": "Maya Patel"
+  },
+  "lessons": [
+    {
+      "lesson_id": "a1000000-0000-4000-8000-000000000001",
+      "student_id": "a1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": "dashboard-lesson-maya-01",
+      "scheduled_start_at": "2026-08-27T17:00:00-04:00"
+    },
+    {
+      "lesson_id": "a1000000-0000-4000-8000-000000000002",
+      "student_id": "a1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": "dashboard-lesson-maya-02",
+      "scheduled_start_at": "2026-09-03T17:00:00-04:00"
+    },
+    {
+      "lesson_id": "a1000000-0000-4000-8000-000000000003",
+      "student_id": "a1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": null,
+      "scheduled_start_at": "2026-09-10T17:00:00-04:00"
+    }
+  ]
+}

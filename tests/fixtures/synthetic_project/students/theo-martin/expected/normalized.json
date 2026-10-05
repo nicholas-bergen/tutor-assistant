@@ -1,0 +1,26 @@
+{
+  "student": {
+    "student_id": "b1111111-1111-4111-8111-111111111111",
+    "display_name": "Theo Martin"
+  },
+  "lessons": [
+    {
+      "lesson_id": "b1000000-0000-4000-8000-000000000001",
+      "student_id": "b1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": "dashboard-lesson-theo-01",
+      "scheduled_start_at": "2026-09-01T18:30:00-05:00"
+    },
+    {
+      "lesson_id": "b1000000-0000-4000-8000-000000000002",
+      "student_id": "b1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": "dashboard-lesson-theo-02",
+      "scheduled_start_at": "2026-09-08T18:30:00-05:00"
+    },
+    {
+      "lesson_id": "b1000000-0000-4000-8000-000000000003",
+      "student_id": "b1111111-1111-4111-8111-111111111111",
+      "dashboard_meeting_id": "dashboard-lesson-theo-future",
+      "scheduled_start_at": "2026-10-06T18:30:00-05:00"
+    }
+  ]
+}

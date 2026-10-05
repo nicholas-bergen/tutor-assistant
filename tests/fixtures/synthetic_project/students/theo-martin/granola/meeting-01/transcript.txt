@@ -1,0 +1,337 @@
+Microphone: Hi Theo. Can you hear me all right?
+
+System audio: Yeah. My camera might freeze because everyone is using the internet, but the audio seems okay.
+
+Microphone: Audio is the important part. Today we’re building a repeatable process. I looked at the diagnostic, and the main pattern is not that you know nothing. You often start correctly, then answer a neighboring question or change direction without checking. Does that sound fair?
+
+System audio: Very fair. I finish and think I did great, and then half the mistakes are things where I’m like, why did I do that?
+
+Microphone: Good. We can work with that. I don’t want the explanation to be “slow down,” because that is vague and usually just makes people anxious. We’ll use three visible steps: identify the task, represent the information, and check the result against the task. I’m writing I-R-C on the shared page. Say those back to me.
+
+System audio: Identify, represent, check.
+
+Microphone: Exactly. Let’s use the first missed math question. Read it aloud.
+
+System audio: “A music service charges a one-time activation fee of fifteen dollars and nine dollars per month. Casey paid a total of sixty-nine dollars. For how many months did Casey use the service?”
+
+Microphone: Identify. What does the answer need to represent?
+
+System audio: Number of months.
+
+Microphone: Represent.
+
+System audio: Fifteen plus nine m equals sixty-nine.
+
+Microphone: Solve.
+
+System audio: Subtract fifteen, so nine m equals fifty-four. m equals six.
+
+Microphone: Check against the task and story.
+
+System audio: It asks for months, so six months. Nine times six is fifty-four plus fifteen is sixty-nine.
+
+Microphone: Perfect. On the diagnostic you selected fifty-four. What did fifty-four represent?
+
+System audio: The money from the monthly part after removing the activation fee. So dollars, not months.
+
+Microphone: Exactly. The algebra was not the problem. Your unit check would have caught it. Write “answer unit” next to C. Let’s try another. A school club orders shirts. There is a setup cost of forty dollars plus six dollars per shirt. The bill is one hundred sixty dollars. How many shirts? Use the three steps out loud.
+
+System audio: Identify: shirts. Represent: forty plus six s equals one hundred sixty. Solve: six s is one hundred twenty, so s is twenty. Check: twenty shirts cost one hundred twenty plus forty, total one hundred sixty. Answer is twenty shirts.
+
+Microphone: Good. Now I’ll make it less obvious. A tank contains thirty liters before a pump begins adding four liters per minute. After some time it contains seventy-eight liters. The question asks how many liters the pump added, not how many minutes it ran. Identify.
+
+System audio: The answer needs liters added. I almost made the variable minutes.
+
+Microphone: You can still use minutes as an intermediate variable. Represent.
+
+System audio: Thirty plus four m equals seventy-eight. m is twelve minutes. But check the task: it asks liters added, so four times twelve is forty-eight liters. Or I could just do seventy-eight minus thirty.
+
+Microphone: Excellent. You found the efficient direct path after clarifying the task. If the answer choices included twelve and forty-eight, what are they testing?
+
+System audio: Whether I stop at the intermediate answer.
+
+Microphone: Right. Now ratio problems. Read diagnostic question nine.
+
+System audio: “A paint mixture uses blue and white paint in a ratio of three to five. If the mixture contains twenty-four liters of blue paint, how many liters of paint are in the full mixture?”
+
+Microphone: Identify.
+
+System audio: Total liters, not white liters.
+
+Microphone: Represent. You can use a scale factor or proportion.
+
+System audio: Three parts is twenty-four, so one part is eight. White is five parts, forty liters. Total is eight parts, sixty-four liters.
+
+Microphone: Check.
+
+System audio: Blue twenty-four over total sixty-four simplifies to three eighths, which matches three blue parts out of eight total. Answer sixty-four.
+
+Microphone: On the diagnostic, you chose forty. Same pattern: you found a true quantity but not the requested one. What should you circle before doing any work?
+
+System audio: The exact thing the question asks. Here, “full mixture.”
+
+Microphone: Good. Let’s distinguish three related questions using the same ratio. Blue to white is three to five, and blue is twenty-four. What is white?
+
+System audio: Forty.
+
+Microphone: What is total?
+
+System audio: Sixty-four.
+
+Microphone: What fraction of the mixture is white?
+
+System audio: Five eighths.
+
+Microphone: Great. Same information, three different targets. That is why identifying comes first. Now a unit-rate problem. A cyclist travels forty-two kilometers in two and a half hours at a constant rate. What is the rate in kilometers per hour?
+
+System audio: Forty-two divided by two point five. That is sixteen point eight kilometers per hour.
+
+Microphone: How do the units confirm the division direction?
+
+System audio: Kilometers divided by hours gives kilometers per hour. If I did hours divided by kilometers, the units would be hours per kilometer.
+
+Microphone: Exactly. Next: at that rate, how far in four hours?
+
+System audio: Sixteen point eight kilometers per hour times four hours is sixty-seven point two kilometers.
+
+Microphone: Good. What cancels?
+
+System audio: Hours, leaving kilometers.
+
+Microphone: Units are a built-in error detector. Let’s try a conversion. A printer makes ninety pages in six minutes. At the same rate, how many pages in forty seconds?
+
+System audio: Ninety over six is fifteen pages per minute. Forty seconds is two thirds of a minute. Fifteen times two thirds is ten pages.
+
+Microphone: Good. Another route?
+
+System audio: Ninety pages in three hundred sixty seconds is one page every four seconds, so ten pages in forty seconds.
+
+Microphone: Excellent. Which feels less error-prone to you?
+
+System audio: The second one because forty and four are easy. But I need to notice that six minutes is three hundred sixty seconds.
+
+Microphone: Right. Choose a route with clean units. Now I want you to do four math questions independently. For each, write I, R, and C on scratch paper, but you don’t need to talk unless you get stuck.
+
+System audio: First one, answer is fourteen tickets. Check works. Second, thirty-five percent. Third, x is nine but the question asks x plus four, so thirteen. Fourth, I’m stuck. It says a map scale is one centimeter to twenty-five kilometers and the route is three point six centimeters. I know I multiply, but I’m second-guessing.
+
+Microphone: Read your I line.
+
+System audio: Actual distance in kilometers.
+
+Microphone: Your R line?
+
+System audio: One centimeter corresponds to twenty-five kilometers. Three point six centimeters times twenty-five kilometers per centimeter.
+
+Microphone: What do the units do?
+
+System audio: Centimeters cancel, so yes, multiply. Three point six times twenty-five is ninety. Ninety kilometers.
+
+Microphone: Check reasonableness.
+
+System audio: Four centimeters would be one hundred kilometers, and three point six should be a little less, so ninety makes sense.
+
+Microphone: Perfect. You had the correct representation. The check removed the doubt. Let’s score: all four correct. How does writing the three letters feel?
+
+System audio: A little slow, but I can see why it helps. Maybe eventually I don’t write all three every time.
+
+Microphone: Exactly. We make the process visible while learning it, then compress it. You may only circle the target and write units later. Now let’s switch to reading and writing. Your diagnostic shows several boundary errors. Do you know what an independent clause is?
+
+System audio: A complete sentence. It has a subject and verb and makes a complete thought.
+
+Microphone: Good. We’ll use a similar process: identify the pieces, represent the boundary, check the punctuation. Sentence one: “The community orchestra rehearsed for six weeks blank its outdoor performance lasted only twenty minutes.” Identify the pieces.
+
+System audio: “The community orchestra rehearsed for six weeks” is complete. “Its outdoor performance lasted only twenty minutes” is also complete.
+
+Microphone: What can join two complete clauses?
+
+System audio: Period, semicolon, or comma plus one of the coordinating conjunctions.
+
+Microphone: Right. The choices are comma, semicolon, colon, and no punctuation.
+
+System audio: Semicolon.
+
+Microphone: Why is comma wrong?
+
+System audio: It would be a comma splice because it is only a comma between complete sentences.
+
+Microphone: Good. Now: “Although the outdoor performance lasted only twenty minutes blank the orchestra rehearsed for six weeks.” Pieces?
+
+System audio: The first part begins with “although,” so it is dependent. The second part is complete. I need a comma between them.
+
+Microphone: Exactly. Same ideas, different grammar because “although” changes the first clause. Next: “The orchestra performed one newly commissioned work blank a brief piece inspired by summer storms.”
+
+System audio: First part is complete. The part after the blank is not a complete sentence; it identifies the work. A colon.
+
+Microphone: Good. What does the colon mean here?
+
+System audio: It introduces the specific work promised by “one newly commissioned work.”
+
+Microphone: Great. Now: “The violinist wearing a bright red scarf blank led the tuning exercise.”
+
+System audio: I think no punctuation because “wearing a bright red scarf” identifies which violinist.
+
+Microphone: It could, depending on context. Suppose the passage has already introduced one violinist, named Amara, and this phrase is just extra description. Then what?
+
+System audio: Then it is nonessential and needs commas around it. Since there might already be a comma before “wearing,” the blank would close it after “scarf.”
+
+Microphone: Exactly. Meaning affects whether information is essential. But the paired-punctuation test still helps: if an interruption opens, it must close. Let’s use a clearer example: “Amara Chen, the orchestra’s concertmaster blank led the tuning exercise.”
+
+System audio: Comma after concertmaster. The core is “Amara Chen led the tuning exercise.”
+
+Microphone: Good. What happens if you remove only the words after the comma but forget to close it?
+
+System audio: The sentence is broken. It’s like opening a parenthesis and never closing it.
+
+Microphone: Exactly. Now do four boundary questions. Before choosing, say “complete,” “dependent,” or “extra” for each side.
+
+System audio: One: complete, complete, so semicolon. Two: dependent then complete, so comma. Three: complete then explanation phrase, so colon. Four: extra phrase inside a complete sentence, so paired commas.
+
+Microphone: All correct. Now I’ll add answer choices that contain distracting conjunctions. “The weather station recorded a sudden pressure drop blank therefore, the crew postponed the launch.” What do you see?
+
+System audio: Both sides are complete. “Therefore” is a transition, not a coordinating conjunction. So I need a semicolon before “therefore” and a comma after it, or a period before it.
+
+Microphone: Excellent. Why doesn’t comma plus “therefore” work like comma plus “and”?
+
+System audio: Because “therefore” is not one of the coordinating conjunctions. It can move around, but it doesn’t grammatically join clauses by itself.
+
+Microphone: Good. Now: “The weather station recorded a sudden pressure drop blank so the crew postponed the launch.”
+
+System audio: Comma before “so” because “so” is a coordinating conjunction joining two complete clauses.
+
+Microphone: Correct. Let’s take a brief pause. What part feels clearest so far?
+
+System audio: The complete-clause thing. I used to choose punctuation by how long the pause sounded. This is more concrete.
+
+Microphone: Good. What still feels uncertain?
+
+System audio: Colons. I know the first part has to be complete, but I’m not always sure whether what comes next counts as an explanation.
+
+Microphone: That is normal. Use two tests. Grammar test: the part before the colon must stand alone. Meaning test: the part after the colon names, explains, lists, or illustrates something set up before it. Try this: “The committee faced a difficult choice blank delay the event or move it indoors.”
+
+System audio: “The committee faced a difficult choice” is complete, and what follows names the choice. Colon.
+
+Microphone: “The committee debated blank whether to delay the event or move it indoors.”
+
+System audio: No colon because “the committee debated” feels incomplete—it needs what they debated.
+
+Microphone: Exactly. The verb “debated” can sometimes stand alone, but here the sentence structure directly attaches the “whether” clause as its object. SAT questions usually make that dependency clear. Another: “The expedition required three supplies blank water, rope, and thermal blankets.”
+
+System audio: Complete before, list after, colon.
+
+Microphone: “The three supplies required by the expedition were blank water, rope, and thermal blankets.”
+
+System audio: No colon because you should not separate “were” from the list that completes it.
+
+Microphone: Perfect. That contrast is worth writing down. Now let’s combine grammar and task identification. A question asks which choice makes the text conform to conventions of Standard English. What should you identify first?
+
+System audio: The grammatical structure around the blank, not which option sounds fanciest.
+
+Microphone: And if it asks for the most logical transition?
+
+System audio: The relationship between ideas, not clause boundaries, although punctuation still has to be valid.
+
+Microphone: Right. The question type itself is part of Identify. You missed one transition question because you solved it like punctuation. Let’s examine it. Read the two sentences.
+
+System audio: “The prototype used less energy than the earlier model. Blank, its parts were easier to replace.”
+
+Microphone: What relationship?
+
+System audio: Another advantage. Same direction. “Moreover” or “Additionally.”
+
+Microphone: You chose “Nevertheless” on the diagnostic. Why?
+
+System audio: I saw that it was a new sentence and thought “nevertheless” was a good transition word. I didn’t compare the ideas.
+
+Microphone: Exactly. Identify the task and relationship. Here both are benefits, so continuation. Try: “The prototype used less energy than the earlier model. Blank, it cost substantially more to manufacture.”
+
+System audio: Contrast. “However.”
+
+Microphone: “The prototype cost more to manufacture. Blank, the company delayed its release while engineers sought cheaper materials.”
+
+System audio: Cause and effect. “As a result.”
+
+Microphone: Great. Let’s do a mixed six-question drill. I won’t tell you whether each is algebra, ratio, boundary, or transition. Use the first step to name the task.
+
+System audio: One: math asks for total cost, not number of items. Equation gives thirty-two dollars. Two: grammar, two complete clauses with contrast word “however,” so semicolon before and comma after. Three: ratio asks for the smaller group; scale factor is seven, answer twenty-one. Four: transition, second sentence gives an example, so “for instance.” Five: algebra gives x equals five but asks two x plus one, so eleven. Six: grammar, dependent opener plus complete clause, comma.
+
+Microphone: Five correct. Number three needs a check. The ratio was smaller to larger equals three to four, and total was forty-nine. Walk it again.
+
+System audio: Oh, I treated seven as the scale factor because forty-nine divided by seven total parts is seven. Smaller group is three parts, twenty-one. That’s what I said.
+
+Microphone: You are right; I misread my key. Good job checking rather than immediately changing. That is another important habit: feedback should trigger review, not automatic surrender.
+
+System audio: I was about to change it, but the parts still worked.
+
+Microphone: Keep that confidence when your evidence is clear. A test cannot tell you you are wrong in the moment, but your check can. Let’s talk timing. The first six math questions took you eight minutes, which is fine with extended time. Still, extended time does not mean unlimited time. What happens when you get stuck?
+
+System audio: I tend to use the extra time on the hardest question and then somehow still rush later.
+
+Microphone: That is common. We’ll use a progress checkpoint rather than a rigid cutoff. Ask: Have I identified the target? Do I have a representation? Do I know the next operation? If two of those are missing after a reasonable attempt, mark and move. You can return with your remaining time.
+
+System audio: So I’m not moving just because it looks hard. I’m moving because I don’t have a plan.
+
+Microphone: Exactly. Try this fictional question. It has a complicated diagram with two similar triangles and several extra lengths. After reading, what do you identify?
+
+System audio: It asks for side QR. I see the triangles are similar because two angles match. I can represent corresponding sides as a proportion. So I do have a plan even if the diagram is busy.
+
+Microphone: Continue.
+
+System audio: QR over twelve equals ten over fifteen. QR is eight. Check: the scale factor from the larger triangle to smaller is two thirds, and twelve times two thirds is eight.
+
+Microphone: Good. Another question: it gives a long paragraph about a function and asks which expression must be divisible by x minus three, but you cannot determine how the named functions relate. What do you do?
+
+System audio: I would underline the condition, write that divisible by x minus three means the expression equals zero at x equals three, and try substituting. If I still can’t connect it after that, I’d mark and move with that note as a breadcrumb.
+
+Microphone: Excellent. A breadcrumb makes the second pass better. Now I want you to explain today’s process as if you were teaching a friend.
+
+System audio: First identify exactly what the question wants, including the unit or type of answer. Then represent the information with an equation, ratio, clause labels, or relationship. Then check the result against the original task. In math I should make sure I didn’t stop at an intermediate number. In writing I should make sure the punctuation matches the clause structure or the transition matches the ideas.
+
+Microphone: That is a strong explanation. Homework will reinforce it. Complete Fictional Foundations Set A without a timer. There are sixteen questions: eight math and eight writing. Circle the requested quantity on every math problem. On every boundary question, mark C for complete clause, D for dependent clause, or E for extra information.
+
+System audio: Do I have to write I-R-C every time?
+
+Microphone: Write all three on the first four math questions. After that, you can compress it to a circled target, representation, and a check mark. I want the process visible, but not so bulky that it becomes the assignment.
+
+System audio: Okay. And for questions I miss?
+
+Microphone: Write one sentence identifying the decision that produced the error. Not “careless.” Something actionable, such as “stopped at dollars instead of converting to months” or “treated a dependent clause as complete.” Bring those sentences next week.
+
+System audio: That’s probably going to be more useful than just copying the explanation.
+
+Microphone: Exactly. Last question: what is the difference between going slower and using a process?
+
+System audio: Going slower could just mean staring at the same confusing thing longer. A process tells me what to look for and gives me a way to check.
+
+Microphone: Perfect. That is the main lesson today. You worked carefully without becoming hesitant, and you defended the ratio answer correctly when I challenged it. Nice job.
+
+System audio: Thanks. I actually feel better about the score now because the mistakes don’t look random.
+
+Microphone: Good. They are patterns, and patterns can change. I’ll add the homework and today’s focus to the summary. See you next Tuesday.
+
+System audio: Can I ask one last thing? When I check by plugging an answer back in, do I always plug it into the original equation or the last equation I simplified?
+
+Microphone: Prefer the original equation or original context. Plugging into the last line may only confirm that you copied your own algebra consistently. The original checks the entire chain. For the service problem, put six months into fifteen plus nine m and confirm sixty-nine.
+
+System audio: And for a word problem, I should check the story too, not only whether the equation balances.
+
+Microphone: Exactly. Suppose you accidentally defined m as months but the prompt asked dollars saved. Six might satisfy the equation while still not answer the prompt. There are two checks: mathematical correctness and task correctness.
+
+System audio: That explains why you keep asking for units at the end.
+
+Microphone: Right. Try one fast example. Three x minus seven equals twenty. Solve and check.
+
+System audio: Three x is twenty-seven, x is nine. Original: three times nine minus seven is twenty. If the prompt asked for x plus two, the final answer would be eleven, not nine.
+
+Microphone: Perfect. Now a ratio check: red to green beads is two to five, and you found fourteen red and thirty-five green. How do you check?
+
+System audio: Fourteen over thirty-five simplifies to two fifths. If it asked for total beads, I still have to add and report forty-nine.
+
+Microphone: Great. That’s the full process. See you Tuesday.
+
+System audio: See you Tuesday. I’ll use the original equation for the check and then make sure the number answers the words in the question.
+
+Microphone: Exactly. If you notice yourself writing only a check mark, pause and name the action: substitute, confirm units, recombine the parts, or reread the target.
+
+System audio: Got it. That makes the check less fake.
+
+Microphone: Well put. Have a good week.

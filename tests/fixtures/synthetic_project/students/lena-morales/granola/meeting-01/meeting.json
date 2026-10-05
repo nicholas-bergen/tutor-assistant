@@ -1,0 +1,4 @@
+{
+  "source_system":"granola","source_record_type":"granola_meeting","external_id":"granola-meeting-lena-01","event_at":"2026-09-14T16:00:00-07:00","recorded_at":"2026-09-14T16:45:00-07:00","captured_at":"2026-10-10T09:00:00-07:00","fixture_schema_version":1,
+  "payload":{"title":"Lena Morales strategy session","participant_display_names":["Lena Morales","Avery Kim"],"started_at":"2026-09-14T16:00:00-07:00","ended_at":"2026-09-14T16:45:00-07:00","transcript_file":"transcript.txt","transcript_sha256":"e30aafd9073b93bdc49fab245dbae31d0eb54e656913462ee84775f0bbdd24a6"}
+}

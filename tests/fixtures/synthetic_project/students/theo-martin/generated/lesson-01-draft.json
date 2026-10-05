@@ -1,0 +1,4 @@
+{
+  "source_system":"generated","source_record_type":"lesson_summary_draft","external_id":"generated-draft-theo-01","event_at":"2026-09-01T20:00:00-05:00","recorded_at":"2026-09-01T20:04:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"dashboard_lesson_external_id":"dashboard-lesson-theo-01","granola_meeting_external_id":"granola-meeting-theo-01","model_name":"fictional-summary-model-v1","noteworthy_information":"Theo learned a checklist for math and grammar. He needs to slow down and read the question.","homework":["Do Foundations Set A."]}
+}

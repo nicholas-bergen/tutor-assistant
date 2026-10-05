@@ -1,0 +1,4 @@
+{
+  "source_system":"generated","source_record_type":"lesson_summary_draft","external_id":"generated-draft-maya-01","event_at":"2026-08-27T18:30:00-04:00","recorded_at":"2026-08-27T18:34:00-04:00","captured_at":"2026-10-10T12:00:00-04:00","fixture_schema_version":1,
+  "payload":{"dashboard_lesson_external_id":"dashboard-lesson-maya-01","granola_meeting_external_id":"granola-meeting-maya-01","model_name":"fictional-summary-model-v1","noteworthy_information":"Maya worked on linear equations, data questions, and grammar. She did well after some reminders and should continue checking her work.","homework":["Finish the assigned practice set."]}
+}

@@ -1,0 +1,4 @@
+{
+  "source_system":"generated","source_record_type":"lesson_summary_draft","external_id":"generated-draft-maya-02","event_at":"2026-09-03T18:30:00-04:00","recorded_at":"2026-09-03T18:35:00-04:00","captured_at":"2026-10-10T12:00:00-04:00","fixture_schema_version":1,
+  "payload":{"dashboard_lesson_external_id":"dashboard-lesson-maya-02","granola_meeting_external_id":"granola-meeting-maya-02","model_name":"fictional-summary-model-v1","noteworthy_information":"Maya practiced synthesis questions and nonlinear systems. She learned to read the goal before the notes and used Desmos for a system.","homework":["Do the synthesis drill and math questions."]}
+}

@@ -1,0 +1,20 @@
+{
+  "source_system": "dashboard",
+  "source_record_type": "dashboard_lesson",
+  "external_id": "dashboard-lesson-maya-02",
+  "event_at": "2026-09-03T17:00:00-04:00",
+  "recorded_at": "2026-09-03T19:10:00-04:00",
+  "captured_at": "2026-10-10T12:00:00-04:00",
+  "fixture_schema_version": 1,
+  "payload": {
+    "student_external_id": "dashboard-student-maya-patel",
+    "scheduled_start_at": "2026-09-03T17:00:00-04:00",
+    "duration_minutes": 90,
+    "status": "complete",
+    "subjects": ["SAT Reading and Writing", "SAT Math"],
+    "coach_display_name": "Jordan Lee",
+    "content_and_concepts": ["Reading and Writing: Rhetorical synthesis", "Reading and Writing: Transitions", "Math: Advanced Math - Nonlinear systems"],
+    "noteworthy_information": "Maya shifted from summarizing every research note to identifying the writer's requested purpose first. Her accuracy improved when she marked which notes were necessary rather than merely true. In math, she solved a nonlinear system algebraically and then used the graph only as a verification tool.",
+    "homework": ["Complete Fictional Rhetorical Synthesis Drill 2.", "Redo the three starred nonlinear-system questions without notes."]
+  }
+}

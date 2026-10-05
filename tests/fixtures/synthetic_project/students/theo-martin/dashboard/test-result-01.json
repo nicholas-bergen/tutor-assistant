@@ -1,0 +1,4 @@
+{
+  "source_system":"dashboard","source_record_type":"test_result","external_id":"dashboard-test-result-theo-01","event_at":"2026-08-15T09:00:00-05:00","recorded_at":"2026-08-15T14:00:00-05:00","captured_at":"2026-10-10T11:00:00-05:00","fixture_schema_version":1,
+  "payload":{"student_external_id":"dashboard-student-theo-martin","test_date":"2026-08-15","test_name":"Fictional Diagnostic D","accommodation":"extended_time_50","is_official":false,"score":1120,"math_score":540,"reading_writing_score":580,"dashboard_reported_percentile":66.0,"dashboard_reported_superscore":1120}
+}
